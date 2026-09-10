@@ -1,0 +1,6 @@
+{
+  "name": "Knight's Tale: Dragon Rescue",
+  "description": "2D Action Platformer: Ksatria bertualang melawan para naga melintasi 3 stage untuk menyelamatkan sang putri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
